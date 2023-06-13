@@ -4,7 +4,7 @@
 
 ![test image](https://raw.githubusercontent.com/IceOPede/test-arcade-tutorial/master/docs/static/tutorials/img.png)
 
-Test 1
+Test 2
 
 ## Draw background
 
