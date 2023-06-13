@@ -4,9 +4,9 @@
 
 ![test image](https://raw.githubusercontent.com/IceOPede/test-arcade-tutorial/master/docs/static/tutorials/img.png)
 
-## Draw background
+Test 1
 
-4
+## Draw background
 
 Open the ``||scene:Scene||`` drawer and use ``||scene:set background image to test||``
 
@@ -37,7 +37,7 @@ player.ay = 300
 player.setStayInScreen(true)
 ```
 
-## {Controll Player}
+## Controll Player
 
 Open the ``||controller:Controller||`` drawer and use ``||controller:run code on anyButton button event||``
 In the event we will move the player up ``||variables(player):set player.ay to||``
