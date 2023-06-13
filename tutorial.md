@@ -12,12 +12,10 @@ Open the ``||scene:Scene||`` drawer and use ``||scene:set background image to te
 
 press **next** to continue
 
-### @preferredEditor asset
 ## Choose background
 
 Choose a image for your background 
 
-### @preferredEditor tsprj
 ## Spawn Player
 
 Open the ``||sprites:Player||`` drawer and use ``||variables(sprites):set player||`` to create a sprite with name Player.
