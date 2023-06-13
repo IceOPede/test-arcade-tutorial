@@ -27,8 +27,8 @@ let player = sprites.create(img``, SpriteKind.Player)
 
 ## Configure Player
 
-Set Vertical acceleration to 300 units ``||variables(player):set player.ay to||``.
-Keep player in screen ``||variables(player):set player.setStayInScreen to||``
+Set Vertical acceleration to 300 units ``||variables:set player.ay to||``.
+Keep player in screen ``||variables:set player.setStayInScreen to||``
 
 ```typescript
 player.ay = 300
