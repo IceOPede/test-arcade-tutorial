@@ -7,13 +7,13 @@
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc11 icon=""
-namespace custom {
+//% weight=100 color=#0fbc11 icon=""
+namespace Sprites {
     /**
      * TODO: describe your function here
-     * @param n describe parameter here, eg: 5
-     * @param s describe parameter here, eg: "Hello"
-     * @param e describe parameter here
+     * @param sprite to add acceleration
+     * @param ax 
+     * @param ay
      */
     //% block
     export function setAcceleration(sprite: Sprite, ax: number, ay: number): void {
