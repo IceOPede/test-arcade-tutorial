@@ -6,7 +6,7 @@
 
 ## Draw background
 
-3
+4
 
 Open the ``||scene:Scene||`` drawer and use ``||scene:set background image to test||``
 
@@ -17,6 +17,7 @@ press **next** to continue
 
 Choose a image for your background 
 
+### @preferredEditor tsprj
 ## Spawn Player
 
 Open the ``||sprites:Player||`` drawer and use ``||variables(sprites):set player||`` to create a sprite with name Player.
