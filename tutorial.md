@@ -25,6 +25,10 @@ scene.setBackgroundImage(img``)
 let player = sprites.create(img``, SpriteKind.Player)
 ```
 
+```ghost
+let x = 0
+```
+
 ## Configure Player
 
 Set Vertical acceleration to 300 units.
