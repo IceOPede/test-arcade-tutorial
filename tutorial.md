@@ -10,23 +10,19 @@ Test 2
 
 Open the ``||scene:Scene||`` drawer and use ``||scene:set background image to test||``
 
+Use sprite editor to select a background image
+
 press **next** to continue
 
-## Choose background
-### @preferredEditor asset
-
-Choose a image for your background 
-
 ## Spawn Player
-### @preferredEditor tsprj
 
-Open the ``||sprites:Player||`` drawer and use ``||variables(sprites):set player||`` to create a sprite with name Player.
+Open the ``||sprites:Sprites||`` drawer and use ``||sprites: create sprite of kind||`` to create a sprite with name *player*.
+Again use the sprite editor to select a Player image
 
 ```typescript
 scene.setBackgroundImage(img``)
-let player: Sprite = null
 // @highlight
-player = sprites.create(img``, SpriteKind.Player)
+let player = sprites.create(img``, SpriteKind.Player)
 ```
 
 ## Configure Player
